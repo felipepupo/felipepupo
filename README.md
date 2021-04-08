@@ -14,4 +14,4 @@
 
 <p align="center">📫 How to reach me: <a href='mailto:felipepupo@outlook.com.br'>felipepupo@outlook.com.br</a> </p>
 
-<!-- <p align="center"><a href="#"><img src="https://badges.pufler.dev/visits/felipepupo/felipepupo"></a> hipsters and nerds have come here o/ </p> -->
+<a href="#"><img src="https://badges.pufler.dev/visits/felipepupo/felipepupo"></a> 
