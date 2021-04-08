@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hi, I'm Felipe! :D
 
-<!--
-**felipepupo/felipepupo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipepupo)](https://github.com/felipepupo)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipepupo/)](https://www.linkedin.com/in/felipepupo/)
 
-Here are some ideas to get you started:
+### About me
+- 💻 I'm a Systems Development student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning about the Java universe.
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=felipepupo&&show_icons=true&theme=radical&line_height=27&v=5" alt="GitHub Stats" />
+</p>
+
+<p align="center">📫 How to reach me: <a href='mailto:felipepupo@outlook.com.br'>felipepupo@outlook.com.br</a> </p>
+
+<!-- <p align="center"><a href="#"><img src="https://badges.pufler.dev/visits/felipepupo/felipepupo"></a> hipsters and nerds have come here o/ </p> -->
