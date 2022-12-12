@@ -13,5 +13,3 @@
 </p>
 
 <p align="center">📫 How to reach me: <a href='mailto:felipepupo@outlook.com.br'>felipepupo@outlook.com.br</a> </p>
-
-<a href="#"><img src="https://badges.pufler.dev/visits/felipepupo/felipepupo"></a> 
